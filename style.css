@@ -37,3 +37,9 @@ footer {
 .card-move{
   margin-top: 3%;
 }
+
+
+.imgclass {
+  float: left;
+  margin-right: 2%;
+}
