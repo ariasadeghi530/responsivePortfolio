@@ -1,0 +1,27 @@
+#title {
+  margin-left: 90px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+#center-text {
+  text-align: center;
+}
+
+footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+#push-down {
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
