@@ -36,6 +36,7 @@ footer {
 
 .card-move{
   margin-top: 4%;
+  margin-left: 2%;
 }
 
 
@@ -66,3 +67,13 @@ footer {
   -ms-transition: 0.4s;
   -o-transition: 0.4s;
 }
+
+.img-photo-adjust{
+  margin-bottom: 5%;
+  border-radius: 2.5%;
+  -webkit-border-radius: 2.5%;
+  -moz-border-radius: 2.5%;
+  -ms-border-radius: 2.5%;
+  -o-border-radius: 2.5%;
+}
+
