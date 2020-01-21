@@ -96,4 +96,9 @@ body {
   #title{
     margin-left: 0;
   }
+  
+  #push-down{
+    margin-top: 7%;
+    margin-bottom: 6%;
+  }
 }
