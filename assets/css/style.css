@@ -102,3 +102,8 @@ body {
     margin-bottom: 6%;
   }
 }
+
+.photoSize{
+  width: 100%;
+  height: 100%;
+}
